@@ -1,0 +1,12 @@
+Package: openlayr
+Type: Package
+Title: Create openlayers maps
+Version: 0.1
+Date: 2012-06-30
+Author: Barry Rowlingson <b.rowlingson@gmail.com>
+Maintainer: Barry Rowlingson <b.rowlingson@gmail.com>
+Description: From sp and raster objects, create a working
+    HTML page with an OpenLayers map in it.
+License: MIT
+Collate:
+    'zzz.R'
