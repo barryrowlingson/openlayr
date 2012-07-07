@@ -1,2 +1,0 @@
-zzz <-
-function(){10}
